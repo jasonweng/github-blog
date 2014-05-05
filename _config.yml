@@ -1,6 +1,5 @@
 baseurl: /github-blog
 markdown: rdiscount
-permalink: /:year/:month/:title/
 author: jasonweng
 pygments: true
 paginate: 24
